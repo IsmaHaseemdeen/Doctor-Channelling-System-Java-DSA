@@ -15,7 +15,7 @@ class Patient {
     }
 }
 
-public class BubbleSortPatients {
+class BubbleSortPatients {
 
     public static void bubbleSort(Patient[] patients) {
         int n = patients.length;
